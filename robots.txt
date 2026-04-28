@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs.alef.im/sitemap.xml
